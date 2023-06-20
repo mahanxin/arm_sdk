@@ -1,0 +1,6 @@
+struct UserCommand 
+{
+    int64_t    task;
+    int64_t    button[4];
+    double     slider[4];
+}

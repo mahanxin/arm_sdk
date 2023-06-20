@@ -1,0 +1,6 @@
+struct externalForce 
+{
+    float force[ 3 ];
+    
+    float twist[ 3 ];
+}

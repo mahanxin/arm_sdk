@@ -1,0 +1,5 @@
+struct targetPosture 
+{
+    float position[3];
+    float quaternion[4]; //order is w x y z
+}

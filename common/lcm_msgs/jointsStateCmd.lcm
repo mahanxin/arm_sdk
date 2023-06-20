@@ -1,0 +1,8 @@
+struct jointsStateCmd 
+{
+    double pos[6];
+    double vel[6];
+    
+    double pos_cmd[6];
+    double vel_cmd[6];
+}

@@ -1,0 +1,8 @@
+*~
+*.vscode
+build
+common/lcm_msgs/file_list.txt
+common/lcm_msgs/java
+common/lcm_msgs/lcmtypes
+common/lcm_msgs/*.hpp
+common/lcm_msgs/*.py
